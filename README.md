@@ -26,7 +26,7 @@ Promover educação financeira através da análise de textos. O jogador deve id
 ### Modo NORMAL
 
 <div align="center">
-<img src="https://private-user-images.githubusercontent.com/234076218/522700604-b4a1fc04-aca2-4376-b284-b449f12adc59.png" width="700px" />
+<img src="https://github.com/MisaelMarcos/Bolsa-dos-erros-GUI/blob/4e11dcb983daa5092de04e2c53b50113aa9f0f5e/Captura%20de%20tela%202025-12-04%20194743.png" width="700px" />
 </div>
 
 ## ✅ Status Atual
