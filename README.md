@@ -31,6 +31,10 @@ Promover educação financeira através da análise de textos. O jogador deve id
 
 ## 💀 Modo HARD
 
+<div align="center">
+<img src="https://github.com/MisaelMarcos/Bolsa-dos-erros-GUI/blob/673670a85ee1abcfedd3dc2aa760ed6a0af5190e/Captura%20de%20tela%202025-12-04%20194754.png" width="700px" />
+</div>
+
 ## ✅ Status Atual
 ✔ Todas as funcionalidades das Releases 1 estão implementadas; 
 
