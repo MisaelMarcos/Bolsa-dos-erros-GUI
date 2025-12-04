@@ -25,9 +25,9 @@ Promover educação financeira através da análise de textos. O jogador deve id
 ---
 ### Modo NORMAL
 
-div align="center"
-img src="https://github.com/MisaelMarcos/Bolsa-dos-erros-GUI/issues/1#issue-3696885812)" width="0px" /
-/div
+<div align="center">
+<img src="https://github.com/MisaelMarcos/Bolsa-dos-erros-GUI/issues/1#issue-3696885812" width="700px" />
+</div>
 
 ## ✅ Status Atual
 ✔ Todas as funcionalidades das Releases 1 estão implementadas; 
