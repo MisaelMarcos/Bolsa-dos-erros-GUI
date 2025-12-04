@@ -24,7 +24,8 @@ Promover educação financeira através da análise de textos. O jogador deve id
 
 ---
 ## 😍 Modo NORMAL
-
+- O modo Normal consiste em dois textos: um completamente correto, contendo as informações sobre o tema, e outro idêntico, porém com alguns erros. Encontre todos os erros para vencer o mais rápido possível. Caso você marque algo que não seja um erro ou escreva incorretamente uma palavra duas vezes seguidas, você perderá.
+  
 <div align="center">
 <img src="https://github.com/MisaelMarcos/Bolsa-dos-erros-GUI/blob/4e11dcb983daa5092de04e2c53b50113aa9f0f5e/Captura%20de%20tela%202025-12-04%20194743.png" width="700px" />
 </div>
