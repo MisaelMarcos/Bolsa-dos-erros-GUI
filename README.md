@@ -31,7 +31,7 @@ Promover educação financeira através da análise de textos. O jogador deve id
 
 ---
 
-### 🔹 Release 3 – (Planejado) Interface Gráfica
+### 🔹 Release 3 – Interface Gráfica ❇️
 - Implementação de interface visual para melhorar a experiência do usuário.
 
 ---
@@ -49,6 +49,8 @@ Promover educação financeira através da análise de textos. O jogador deve id
 ✔ Todas as funcionalidades das Releases 1 estão implementadas; 
 
 ✔ Sistema de tempo crescente funcionando corretamente;
+
+✔ Interface gráfica implementada com sucesso;
 
 ---
 
