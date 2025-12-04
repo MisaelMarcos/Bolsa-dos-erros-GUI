@@ -32,7 +32,8 @@ Promover educação financeira através da análise de textos. O jogador deve id
 
 ---
 ## 💀 Modo HARD
-
+- O modo Hard consiste em um único texto contendo diversos erros. Seu objetivo é, por meio do conhecimento, localizar todos os erros antes de 30 segundos. A cada acerto, você recebe 10 segundos adicionais; a cada erro, você perde 5 segundos. Quando o tempo chegar a zero, você perderá.
+  
 <div align="center">
 <img src="https://github.com/MisaelMarcos/Bolsa-dos-erros-GUI/blob/673670a85ee1abcfedd3dc2aa760ed6a0af5190e/Captura%20de%20tela%202025-12-04%20194754.png" width="700px" />
 </div>
