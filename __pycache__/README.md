@@ -40,7 +40,7 @@ Promover educação financeira através da análise de textos. O jogador deve id
 | Componente            | Descrição                     |
 |----------------------|-------------------------------|
 | Linguagem            | Python                        |
-| Bibliotecas          | `time` e `colorama`             |
+| Bibliotecas          | `Customtkinter` e `Tkinter`             |
 | Paradigma            | Gamificação Educacional       |
 
 ---
