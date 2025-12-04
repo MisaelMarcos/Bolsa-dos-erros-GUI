@@ -10,27 +10,6 @@ Promover educação financeira através da análise de textos. O jogador deve id
 
 ---
 
-## 🚀 Releases
-
-### 🔹 Release 1 – Dois Textos para Comparação
-- O usuário recebe:
-  - **Texto 1:** totalmente correto.
-  - **Texto 2:** com erros intencionais.
-- 🎮 Objetivo: encontrar todos os erros no Texto 2.
-- ⏱ Sistema de tempo: **cronômetro crescente**
-
----
-
-### 🔹 Release 2 – Um Texto com Erros Ocultos
-- O usuário recebe **um único texto** com informações incorretas.
-- 🎮 Objetivo: identificar os erros contidos no texto.
-- ⏱ Sistema de tempo: **cronômetro decrescente**
-  - Tempo inicial: **30 segundos**
-  - Acerto: **+10 segundos**
-  - Erro: **-5 segundos**
-
----
-
 ### 🔹 Release 3 – Interface Gráfica ❇️
 - Implementação de interface visual para melhorar a experiência do usuário.
 
@@ -44,6 +23,11 @@ Promover educação financeira através da análise de textos. O jogador deve id
 | Paradigma            | Gamificação Educacional       |
 
 ---
+### Modo NORMAL
+
+div align="center"
+img src="https://github.com/MisaelMarcos/Bolsa-dos-erros-GUI/issues/1#issue-3696885812)" width="0px" /
+/div
 
 ## ✅ Status Atual
 ✔ Todas as funcionalidades das Releases 1 estão implementadas; 
